@@ -1,0 +1,25 @@
+{
+  "foods": [
+    {
+      "name": "bolognase",
+      "description": "tast",
+      "price": "12",
+      "imgSrc": "https://www.cookingclassy.com/wp-content/uploads/2022/05/bolognese-2.jpg",
+      "id": 1
+    },
+    {
+      "name": "Pizza Margrietiņa",
+      "description": "mua",
+      "price": "14",
+      "imgSrc": "https://www.saveur.com/uploads/2019/07/08/JTPSD2ONPYISBHIP4CJ5HDW55A.jpg?auto=webp&auto=webp&optimize=high&quality=70&width=1440",
+      "id": 2
+    },
+    {
+      "name": "Ribiņas",
+      "description": "diez kura tās ir",
+      "price": "25",
+      "imgSrc": "https://www.jocooks.com/wp-content/uploads/2019/06/instant-pot-bbq-pork-ribs-1-16.jpg",
+      "id": 3
+    }
+  ]
+}
